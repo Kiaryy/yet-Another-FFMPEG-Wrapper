@@ -6,4 +6,4 @@
  ```
 
 
-![alt text](https://github.com/Kiaryy/yet-Another-FFPEG-Wrapper/blob/main/jinx-jinx-cat.gif)
+<center>![alt text](https://github.com/Kiaryy/yet-Another-FFPEG-Wrapper/blob/main/jinx-jinx-cat.gif)</center>
