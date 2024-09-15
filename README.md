@@ -1,4 +1,4 @@
-# Usage: pympeg [input_name] [output_name] [Flag]
+# Usage: pympeg [input_name] [OPTIONAL output_name] [Flag]
  ```
  C/c     Will compress after asking a few questions. 
  T/t     Will trim the video after asking for timestamps. 
